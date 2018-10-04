@@ -29,7 +29,7 @@ a, span {font-size: inherit; font-family: inherit; font-style: inherit; font-wei
 em, strong {font-size: inherit; font-family: inherit; line-height: inherit; color: inherit; text-transform: inherit;}
 
 h1 {padding: 0 20px 24px; font-size: 34px; line-height: 1.05em;
-	font-family: "PT Serif", Times, serif;
+	font-family: "PT Serif", Times, serif; color: blue;
 }
 h2 {padding: 0 20px 24px; font-size: 26px; line-height: 1.1em;
 	font-family: "PT Serif", Times, serif;
@@ -39,7 +39,7 @@ h4 {padding: 0 20px 5px; font-size: 13px; line-height: 1em; font-weight: bold;}
 h5 {padding: 0 20px 2px; font-size: 13px; line-height: 1em; font-weight: bold;}
 h6 {padding: 0 20px 2px; font-size: 13px; line-height: 1em; font-weight: bold;}
 
-p {padding: 0 20px 18px; font-size: 13px; line-height: 1.538em;} 
+p {padding: 0 20px 18px; font-size: 13px; line-height: 1.538em; color: red;} 
 
 
 ul,

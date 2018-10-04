@@ -1,6 +1,7 @@
 <div class="scene front i:front" itemscope itemtype="http://schema.org/NewsArticle">
 
 	<h1 itemprop="headline">Janitor is alive</h1>
+	<div class="i:toys i:books">The toys are not ready yet :(</div>
 
 	<ul class="info">
 		<li class="published_at" itemprop="datePublished" content="2016-09-07">2016-09-07, 14:58</li>

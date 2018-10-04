@@ -4585,3 +4585,18 @@ Util.Objects["login"] = new function() {
 	}
 }
 
+
+/*i-toys.js*/
+Util.Objects["toys"] = new function() {
+	this.init = function(scene) {
+		scene.resized = function() {
+		}
+		scene.scrolled = function() {
+		}
+		scene.ready = function() {
+			u.qs(".scene div").innerHTML = "The books are open!";
+		}
+		scene.ready();
+	}
+}
+

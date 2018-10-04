@@ -10,7 +10,9 @@ Util.Objects["front"] = new function() {
 		}
 
 		scene.ready = function() {
-//			u.bug("scene.ready:" + u.nodeId(this));
+			// u.bug("scene.ready:" + u.nodeId(this))
+			u.qs(".scene h1").innerHTML = "The scene is ready!";
+
 		}
 
 		// scene is ready
